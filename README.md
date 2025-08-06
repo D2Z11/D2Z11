@@ -1,8 +1,6 @@
-Hi my name is Danial, just an aspiring software major.
+Hi my name is Danial, just an aspiring software major who is an incoming apprentice at JPMC. 
 
-I like playing soccer and walking outside.
-
-One fact about me is that I love going to the beach
+I like playing soccer and walking outside and one fact about me is that I love going to the beach
 
 <img width="303" height="270" alt="image" src="https://github.com/user-attachments/assets/d263d660-6e0b-4587-aa40-631eca56fea3" />
 
